@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Ternium.Linea.UI.App.AplicacionMVVM</id>
+    <version>1.0.5</version>
+    <title>Ivision - Aplicación de Control MVVM</title>
+    <authors>c.jcotej</authors>
+    <owners>c.jcotej</owners>
+    <licenseUrl>http://10.190.2.214/trac/core/wiki/WikiStart</licenseUrl>
+    <projectUrl>http://10.190.2.214/trac/core/wiki/WikiStart</projectUrl>
+    <iconUrl>http://10.190.2.214/trac/core/wiki/WikiStart</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Ivision - Aplicación de Control: Contiene ventana con barra de título estándar, Iv3Timer, referencias, estilos, archivos de lenguaje y modelo MVVM.</description>
+    <releaseNotes>Aplicación tipica de control MVVM</releaseNotes>
+    <tags>TerniumAuto</tags>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="PresentationCore" targetFramework="" />
+      <frameworkAssembly assemblyName="PresentationFramework" targetFramework="" />
+      <frameworkAssembly assemblyName="System.Xaml" targetFramework="" />
+      <frameworkAssembly assemblyName="WindowsBase" targetFramework="" />
+      <frameworkAssembly assemblyName="System" targetFramework="" />
+      <frameworkAssembly assemblyName="System.Data" targetFramework="" />
+      <frameworkAssembly assemblyName="System.Xml" targetFramework="" />
+      <frameworkAssembly assemblyName="Microsoft.CSharp" targetFramework="" />
+      <frameworkAssembly assemblyName="System.Core" targetFramework="" />
+      <frameworkAssembly assemblyName="System.Xml.Linq" targetFramework="" />
+      <frameworkAssembly assemblyName="System.Data.DataSetExtensions" targetFramework="" />
+      <frameworkAssembly assemblyName="Ternium.Ivision.UI.Library.ControlsUI.dll" targetFramework="" />
+      <frameworkAssembly assemblyName="Ternium.Ivision.UI.Library.Widgets.dll" targetFramework="" />
+      <frameworkAssembly assemblyName="Ternium.Ivision.UI.Library.MVVM.dll" targetFramework="" />
+      <frameworkAssembly assemblyName="Ternium.Ivision.Windows.Library.Iv_Common.dll" targetFramework="" />
+      <frameworkAssembly assemblyName="Ternium.Ivision.Windows.Library.Iv_Log.dll" targetFramework="" />
+      <frameworkAssembly assemblyName="Ternium.Ivision.Windows.Library.Iv_Socket.dll" targetFramework="" />
+    </frameworkAssemblies>
+  </metadata>
+</package>

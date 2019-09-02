@@ -1,0 +1,108 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:controls="clr-namespace:Ternium.Ivision.UI.Library.Widgets.Widgets.Controls;assembly=Ternium.Ivision.UI.Library.Widgets"
+                   >
+    	
+    
+    <Style TargetType="{x:Type controls:IvMeter}" x:Key="IvMeter">     
+        <Setter Property="IvMeterForeground" Value="#00FF00" />
+        <Setter Property="IvMeterBackground" Value="#000000" />  
+        <Setter Property="IvMeterFontSizeVal" Value="18" />    
+        <Setter Property="FontFamily" Value="Calibri" />   
+    </Style>  
+    
+    <Style TargetType="{x:Type controls:IvMeter}" x:Key="IvMeterUnity">     
+        <Setter Property="IvMeterForeground" Value="#00FF00" />
+        <Setter Property="IvMeterBackground" Value="#000000" />           
+        <Setter Property="IvMeterFontSizeVal" Value="18" />         
+                 
+        <Setter Property="IvUnitForeGround" Value="#00FF00" /> 
+        <Setter Property="IvUnitVisibility" Value="True" /> 
+        <Setter Property="IvUnitFontSize" Value="18" /> 
+        <Setter Property="IvUnitFontFamily" Value="Calibri" />   
+    </Style>  
+    
+    <Style TargetType="{x:Type controls:IvMeter}" x:Key="IvSpModifiable">     
+        <Setter Property="IvMeterForeground" Value="#00FFFF" />
+        <Setter Property="IvMeterBackground" Value="#000000" />   
+         <Setter Property="IvMeterFontSizeVal" Value="18" />     
+        <Setter Property="FontFamily" Value="Calibri" />  
+    </Style>  
+    
+     <Style TargetType="{x:Type controls:IvMeter}" x:Key="IvSpModifiableUnity">     
+        <Setter Property="IvMeterForeground" Value="#00FFFF" />
+        <Setter Property="IvMeterBackground" Value="#000000" /> 
+        <Setter Property="IvUnitForeGround" Value="#00FFFF" />    
+         <Setter Property="IvMeterFontSizeVal" Value="18" />   
+        <Setter Property="IvUnitVisibility" Value="True" /> 
+        <Setter Property="FontFamily" Value="Calibri" />  
+        <Setter Property="IvUnitFontFamily" Value="Calibri" />  
+    </Style>  
+    
+    
+     <Style TargetType="{x:Type controls:IvMeter}" x:Key="IvSpNoModifiable">     
+        <Setter Property="IvMeterForeground" Value="#FFFFFF" />
+        <Setter Property="IvMeterBackground" Value="#000000" />    
+       <Setter Property="IvMeterFontSizeVal" Value="18" />  
+        <Setter Property="FontFamily" Value="Calibri" />  
+    </Style>    
+    
+     <Style TargetType="{x:Type controls:IvMeter}" x:Key="IvSpNoModifiableUnity">     
+        <Setter Property="IvMeterForeground" Value="#FFFFFF" />
+        <Setter Property="IvMeterBackground" Value="#000000" />    
+        <Setter Property="IvUnitForeGround" Value="#FFFFFF" /> 
+        <Setter Property="IvMeterFontSizeVal" Value="18" />    
+        <Setter Property="IvUnitVisibility" Value="True" /> 
+        <Setter Property="FontFamily" Value="Calibri" />  
+        <Setter Property="IvUnitFontFamily" Value="Calibri" />  
+    </Style>       
+    
+    
+    <Style TargetType="{x:Type controls:IvOnOff}" x:Key="IvOnOffWithBorder">
+        <Setter Property="BorderBrush" Value="Green" />
+        <Setter Property="BorderThickness" Value="1.5" />
+            
+    </Style>    
+    
+    <Style TargetType="{x:Type controls:IvCommand}" x:Key="IvCommandText">
+        <Setter Property="IvCommandFontColor" Value="White" />
+        <Setter Property="IvCommandFontSize" Value="25" />            
+        <Setter Property="IvCommandHorizontalAligment" Value="Center" />    
+        <Setter Property="IvCommandVerticalAligment" Value="Center" />    
+    </Style>  
+    
+     <Style TargetType="{x:Type controls:IvProgress}" x:Key="IvProgressVerticalSpL">
+        <Setter Property="ColorBar" Value="#00FFFF" />
+        <Setter Property="OrientationMesure" Value="Left" />            
+        <Setter Property="OrientationBar" Value="Vertical" />    
+        <Setter Property="VisibleMesure" Value="True" />    
+           <Setter Property="IvProgressFontSizeAxis" Value="20" />  
+    </Style>  
+     
+      <Style TargetType="{x:Type controls:IvProgress}" x:Key="IvProgressVerticalMeter">
+        <Setter Property="ColorBar" Value="#00FF00" />
+        <Setter Property="OrientationMesure" Value="Left" />            
+        <Setter Property="OrientationBar" Value="Vertical" />    
+        <Setter Property="VisibleMesure" Value="True" />    
+        <Setter Property="IvProgressFontSizeAxis" Value="20" />    
+    </Style>  
+    
+      <Style TargetType="{x:Type controls:IvProgress}" x:Key="IvProgressHorizontalMeterBtm">
+        <Setter Property="ColorBar" Value="#00FF00" />
+        <Setter Property="OrientationMesure" Value="Bottom" />            
+        <Setter Property="OrientationBar" Value="Horizontal" />    
+        <Setter Property="VisibleMesure" Value="True" />    
+        <Setter Property="IvProgressFontSizeAxis" Value="16" />    
+    </Style> 
+    
+      <Style TargetType="{x:Type controls:IvProgress}" x:Key="IvProgressHorizontalSPBtm">
+        <Setter Property="ColorBar" Value="#00FFFF" />
+        <Setter Property="OrientationMesure" Value="Bottom" />            
+        <Setter Property="OrientationBar" Value="Horizontal" />    
+        <Setter Property="VisibleMesure" Value="True" />    
+        <Setter Property="IvProgressFontSizeAxis" Value="16" />    
+    </Style> 
+    
+    
+    
+</ResourceDictionary>

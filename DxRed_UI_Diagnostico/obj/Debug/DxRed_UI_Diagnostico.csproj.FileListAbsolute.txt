@@ -124,3 +124,6 @@ C:\Users\c.fmacch\Desktop\Monitoreo_UI_Overview\DxRed_UI_Diagnostico\obj\Debug\D
 C:\Users\c.fmacch\Desktop\Monitoreo_UI_Overview\DxRed_UI_Diagnostico\obj\Debug\DxRed_UI_Diagnostico.Properties.Resources.resources
 C:\Users\c.fmacch\Desktop\Monitoreo_UI_Overview\DxRed_UI_Diagnostico\obj\Debug\DxRed_UI_Diagnostico.csproj.GenerateResource.Cache
 C:\Users\c.fmacch\Desktop\Monitoreo_UI_Overview\DxRed_UI_Diagnostico\obj\Debug\DxRed_UI_Diagnostico.csprojResolveAssemblyReference.cache
+C:\Users\c.fmacch\Desktop\Proyecto\Monitoreo_UI_Overview\DxRed_UI_Diagnostico\bin\Debug\DxRed_UI_Diagnostico.exe.config
+C:\Users\c.fmacch\Desktop\Proyecto\Monitoreo_UI_Overview\DxRed_UI_Diagnostico\obj\Debug\DxRed_UI_Diagnostico.exe
+C:\Users\c.fmacch\Desktop\Proyecto\Monitoreo_UI_Overview\DxRed_UI_Diagnostico\obj\Debug\DxRed_UI_Diagnostico.pdb

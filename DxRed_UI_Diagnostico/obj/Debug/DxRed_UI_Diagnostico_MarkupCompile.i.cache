@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\c.fmacch\Desktop\Monitoreo_UI_Overview\DxRed_UI_Diagnostico\obj\Debug\
+C:\Users\c.fmacch\Desktop\Proyecto\Monitoreo_UI_Overview\DxRed_UI_Diagnostico\obj\Debug\
 DxRed_UI_Diagnostico
 none
 false
 DEBUG;TRACE
-C:\Users\c.fmacch\Desktop\Monitoreo_UI_Overview\DxRed_UI_Diagnostico\App.xaml
+C:\Users\c.fmacch\Desktop\Proyecto\Monitoreo_UI_Overview\DxRed_UI_Diagnostico\App.xaml
 71246904604
 
 14-38102157
-23454780995
+23-258416788
 MainWindow.xaml;Resources\Languages\DxRed_UI_Diagnostico.EN-US.xaml;Resources\Languages\DxRed_UI_Diagnostico.ES-AR.xaml;Resources\Languages\DxRed_UI_Diagnostico.ES-MX.xaml;Resources\Styles\GlobalDictionary.xaml;Resources\Styles\StyleDictionary.xaml;Resources\Styles\WidgetsDictionary.xaml;
 
-False
+True
 

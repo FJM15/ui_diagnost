@@ -102,10 +102,10 @@ namespace DxRed_UI_Diagnostico.ViewModel
             get 
             {
                 if (hostSeleccionado.HabilitarAnchoBanda == 1)
-                    return "CONTÍNUA";
+                    return "CONTÍNUAA";
                 else
                     if (hostSeleccionado.HabilitarAnchoBanda == 2)
-                        return "BAJO DEMANDA";
+                        return "BAJO DEMANDAA";
                     else
                         return "NO";
             }
